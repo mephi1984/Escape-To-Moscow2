@@ -407,37 +407,57 @@ translate english strings:
 
     # game/screens.rpy:589
     old "Версия [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/screens.rpy:595
     old "Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:709
     old "Синхронизация загрузки"
-    new ""
+    new "Synchronization with download"
 
     # game/screens.rpy:713
     old "Скачать Sync"
-    new ""
+    new "Download Sync"
 
     # game/screens.rpy:1037
     old "Войти"
-    new ""
+    new "Login"
 
     # game/screens.rpy:1061
     old "Страница вверху"
-    new ""
+    new "Page Up"
 
     # game/screens.rpy:1065
     old "Страница вниз"
-    new ""
+    new "Page Down"
 
     # game/screens.rpy:1082
     old "Открывает меню специальных возможностей."
-    new ""
+    new "Opens the special features menu."
 
     # game/screens.rpy:1127
     old "Старт, Гид, B/кнопка вправо"
-    new ""
+    new "Start, Guide, B/right key"
+
+# TODO: Translation updated at 2025-07-23 12:46
+
+translate english strings:
+
+    # game/screens.rpy:1186
+    old "Язык / Language"
+    new "Язык / Language"
+
+    # game/screens.rpy:1187
+    old "Русский"
+    new "Русский"
+
+    # game/screens.rpy:1188
+    old "English"
+    new "English"
+
+    # game/screens.rpy:1198
+    old "Продолжить"
+    new "Continue"
 

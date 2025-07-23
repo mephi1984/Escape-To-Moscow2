@@ -727,7 +727,7 @@ label branch1_day4_yarik_car_interior2:
 
     aliya "Я увижу фотку хинкала в соцсетях, например, и пойму - это аварский хинкал, или лезгинский например." with dissolve
 
-    aliya "Так я по фотке хикнала узнаю национальность дагестанца, который ведет эту страничку." with dissolve
+    aliya "Так я по фотке хинкала узнаю национальность дагестанца, который ведет эту страничку." with dissolve
 
     yarik "Интересно!" with dissolve
 
@@ -880,7 +880,7 @@ label branch1_day4_yarik_car_interior3:
 
     show milana_jacket happy2 as Milana at any_left_pos with dissolve
 
-    coach "Привет Семён! Ну вот мы и познакомились вживую." with dissolve
+    coach "Привет, Семён! Ну вот мы и познакомились вживую." with dissolve
 
     show milana_jacket happy1 as Milana at any_left_pos with dissolve
 
@@ -892,7 +892,7 @@ label branch1_day4_yarik_car_interior3:
 
     show milana_jacket happy1 as Milana at any_left_pos with dissolve
 
-    me "Я и понятия не имел что ты женщина." with dissolve
+    me "Я и понятия не имел, что ты женщина." with dissolve
 
     show milana_jacket half_turn_happy2 as Milana with dissolve:
         xpos 0.0
@@ -932,7 +932,7 @@ label branch1_day4_yarik_car_interior3:
 
     aliya "Спасибо!" with dissolve
 
-    yarik "Простите что вмешиваюсь." with dissolve
+    yarik "Простите, что вмешиваюсь." with dissolve
 
     yarik "Предлагаю взять бургеры, картошку, колу, и продолжить общение уже за столом!" with dissolve
 
@@ -1452,7 +1452,7 @@ label conspiracy_kitchen:
 
     show kitchen_table_front_night2 as kitchen_table_front_night zorder 2
 
-    aliya "Я наверное обидела Костю." with dissolve
+    aliya "Я, наверное, обидела Костю." with dissolve
 
     aliya "Мне кажется, он добрый человек. Может мне извинится перед ним?" with dissolve
 
@@ -1532,7 +1532,7 @@ label conspiracy_kitchen:
 
     show kitchen_table_front_night3 as kitchen_table_front_night zorder 2
 
-    "Алия встала из-за стала и ушла с Миланой." with dissolve
+    "Алия встала из-за стола и ушла с Миланой." with dissolve
 
     "Что же, мне тоже пора идти спать." with dissolve
 
@@ -1550,7 +1550,7 @@ label conspiracy_room_boys:
 
     "Конечно, спальный мешок - не самое удобное место для сна." with dissolve
 
-    "Но мне нравилось находится в этой квартире." with dissolve
+    "Но мне нравилось находиться в этой квартире." with dissolve
 
     "Словно какая-то позитивная энергетика тут была..." with dissolve
 

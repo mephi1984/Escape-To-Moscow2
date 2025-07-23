@@ -2994,3 +2994,315 @@ translate english branch1_day6_bus_exterior_17abd202:
     # "Но впереди нас ждут и другие приключения!" with dissolve
     "But other adventures await us ahead!" with dissolve
 
+# game/branch1_day6.rpy:57
+translate english branch1_day6_conspiracy_hall_morning_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:130
+translate english branch1_day6_conspiracy_hall_morning_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:135
+translate english branch1_day6_conspiracy_hall_morning_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:138
+translate english branch1_day6_conspiracy_hall_morning_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:141
+translate english branch1_day6_conspiracy_hall_morning_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:144
+translate english branch1_day6_conspiracy_hall_morning_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:147
+translate english branch1_day6_conspiracy_hall_morning_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:150
+translate english branch1_day6_conspiracy_hall_morning_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:153
+translate english branch1_day6_conspiracy_hall_morning_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:156
+translate english branch1_day6_conspiracy_hall_morning_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:159
+translate english branch1_day6_conspiracy_hall_morning_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:162
+translate english branch1_day6_conspiracy_hall_morning_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:165
+translate english branch1_day6_conspiracy_hall_morning_03000806_8:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:168
+translate english branch1_day6_conspiracy_hall_morning_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:776
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:782
+translate english branch1_day6_metro_tretyakovskaya_exterior_b1a7c187:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:785
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:788
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:791
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:794
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:797
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:812
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:815
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:818
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:821
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:824
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2_5:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:827
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:830
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:833
+translate english branch1_day6_metro_tretyakovskaya_exterior_b1a7c187_1:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:836
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:839
+translate english branch1_day6_metro_tretyakovskaya_exterior_03000806_8:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:842
+translate english branch1_day6_metro_tretyakovskaya_exterior_f84672f2_6:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1261
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1264
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1267
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1270
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1273
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1276
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1279
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1282
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1285
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1288
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1291
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1294
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1297
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1300
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_8:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1303
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_9:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1306
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_5:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1309
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_10:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1312
+translate english branch1_day6_metro_tretyakovskaya_cafe1_03000806_11:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1315
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_6:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day6.rpy:1318
+translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_7:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+

@@ -3348,12 +3348,6 @@ translate english branch1_day5_mcdonalds_exterior3_lawyer_1b1ff834_1:
     # aliya "Спасибо..." with dissolve
     aliya "Thank you..." with dissolve
 
-# game/branch1_day5.rpy:2504
-translate english branch1_day5_mcdonalds_exterior3_lawyer_ada1de75:
-
-    # milana "Спасибо большое Александр! Тогда будем на связи?" with dissolve
-    milana "Thank you very much, Alexander! So, shall we stay in touch?" with dissolve
-
 # game/branch1_day5.rpy:2510
 translate english branch1_day5_mcdonalds_exterior3_lawyer_946f0c08:
 
@@ -3497,4 +3491,252 @@ translate english branch1_day5_conspiracy_room_boys1_d209aa90:
 
     # "Со временем мои мысли успокоились, и я задремал..." with dissolve
     "Over time, my thoughts calmed down, and I dozed off..." with dissolve
+
+# TODO: Translation updated at 2025-07-23 12:46
+
+# game/branch1_day5.rpy:923
+translate english branch1_day5_guvm_interior_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:926
+translate english branch1_day5_guvm_interior_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:929
+translate english branch1_day5_guvm_interior_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:932
+translate english branch1_day5_guvm_interior_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:935
+translate english branch1_day5_guvm_interior_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:938
+translate english branch1_day5_guvm_interior_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:941
+translate english branch1_day5_guvm_interior_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:944
+translate english branch1_day5_guvm_interior_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:947
+translate english branch1_day5_guvm_interior_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:950
+translate english branch1_day5_guvm_interior_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:953
+translate english branch1_day5_guvm_interior_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1205
+translate english branch1_day5_tretyakovskaya_exterior1_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1208
+translate english branch1_day5_tretyakovskaya_exterior1_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1211
+translate english branch1_day5_tretyakovskaya_exterior1_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1214
+translate english branch1_day5_tretyakovskaya_exterior1_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1217
+translate english branch1_day5_tretyakovskaya_exterior1_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1220
+translate english branch1_day5_tretyakovskaya_exterior1_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1223
+translate english branch1_day5_tretyakovskaya_exterior1_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1799
+translate english branch1_day5_mcdonalds_exterior2_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1802
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1805
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1808
+translate english branch1_day5_mcdonalds_exterior2_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1811
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1814
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1817
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_5:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1820
+translate english branch1_day5_mcdonalds_exterior2_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1823
+translate english branch1_day5_mcdonalds_exterior2_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1826
+translate english branch1_day5_mcdonalds_exterior2_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1829
+translate english branch1_day5_mcdonalds_exterior2_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1832
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_6:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1835
+translate english branch1_day5_mcdonalds_exterior2_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1838
+translate english branch1_day5_mcdonalds_exterior2_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:1841
+translate english branch1_day5_mcdonalds_exterior2_f84672f2_7:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2125
+translate english branch1_day5_conspiracy_kitchen1_2466bfeb:
+
+    # lawyer "[lastPhoneMsg!t]" with dissolve
+    lawyer "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2128
+translate english branch1_day5_conspiracy_kitchen1_2466bfeb_1:
+
+    # lawyer "[lastPhoneMsg!t]" with dissolve
+    lawyer "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2131
+translate english branch1_day5_conspiracy_kitchen1_2466bfeb_2:
+
+    # lawyer "[lastPhoneMsg!t]" with dissolve
+    lawyer "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2198
+translate english branch1_day5_mcdonalds_exterior5_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2201
+translate english branch1_day5_mcdonalds_exterior5_2466bfeb:
+
+    # lawyer "[lastPhoneMsg!t]" with dissolve
+    lawyer "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2204
+translate english branch1_day5_mcdonalds_exterior5_2466bfeb_1:
+
+    # lawyer "[lastPhoneMsg!t]" with dissolve
+    lawyer "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2207
+translate english branch1_day5_mcdonalds_exterior5_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day5.rpy:2504
+translate english branch1_day5_mcdonalds_exterior3_lawyer_e96bf4a2:
+
+    # milana "Спасибо большое, Александр! Тогда будем на связи?" with dissolve
+    milana "Thank you very much, Alexander! So, shall we stay in touch?" with dissolve
 

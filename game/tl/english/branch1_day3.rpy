@@ -1128,12 +1128,6 @@ translate english branch1_day3_piper_cherokee1_59ae1b74:
     # "Рев мотора перекрывал все прочие звуки." with dissolve
     "The roar of the engine drowned out all other sounds." with dissolve
 
-# game/branch1_day3.rpy:827
-translate english branch1_day3_piper_cherokee1_5f87e2aa:
-
-    # pilot "{i}Мы сейчас летим на высоте пять тысяч километров, со скоростью сто восемьдесят километров в час.{/i}" with dissolve
-    pilot "{i}We are currently flying at an altitude of five thousand kilometers, at a speed of one hundred eighty kilometers per hour.{/i}" with dissolve
-
 # game/branch1_day3.rpy:829
 translate english branch1_day3_piper_cherokee1_7c9ae300:
 
@@ -2735,4 +2729,13 @@ translate english branch1_day3_accessible_sky_interior_room_b65ed4ce:
 
     # "И я уснул..." with dissolve
     "And I fell asleep..." with dissolve
+
+# TODO: Translation updated at 2025-07-23 12:46
+
+# game/branch1_day3.rpy:827
+translate english branch1_day3_piper_cherokee1_c3f749dc:
+
+    # pilot "{i}Мы сейчас летим на высоте пять тысяч метров, со скоростью сто восемьдесят километров в час.{/i}" with dissolve
+    pilot "{i}We are currently flying at an altitude of five thousand meters, at a speed of one hundred eighty kilometers per hour.{/i}" with dissolve
+
 

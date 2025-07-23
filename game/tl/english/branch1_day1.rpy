@@ -1487,4 +1487,917 @@ translate english strings:
     # game/branch1_day1.rpy:369
     old "Предложить приехать к Алие."
     new "Offer to drive to Aliya."
+# TODO: Translation updated at 2025-07-23 13:00
+
+# game/branch1_day1.rpy:58
+translate english branch1_day1_start_b4816af2:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:61
+translate english branch1_day1_start_b4816af2_1:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:64
+translate english branch1_day1_start_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:67
+translate english branch1_day1_start_b4816af2_2:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:72
+translate english branch1_day1_start_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:75
+translate english branch1_day1_start_b4816af2_3:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:78
+translate english branch1_day1_start_b4816af2_4:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:81
+translate english branch1_day1_start_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:84
+translate english branch1_day1_start_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:87
+translate english branch1_day1_start_b4816af2_5:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:90
+translate english branch1_day1_start_b4816af2_6:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:93
+translate english branch1_day1_start_b4816af2_7:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:96
+translate english branch1_day1_start_b4816af2_8:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:99
+translate english branch1_day1_start_b4816af2_9:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:102
+translate english branch1_day1_start_b4816af2_10:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:105
+translate english branch1_day1_start_b4816af2_11:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:108
+translate english branch1_day1_start_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:111
+translate english branch1_day1_start_f84672f2_5:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:114
+translate english branch1_day1_start_b4816af2_12:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:117
+translate english branch1_day1_start_b4816af2_13:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:120
+translate english branch1_day1_start_b4816af2_14:
+
+    # noName "[lastPhoneMsg!t]" with dissolve
+    noName "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:190
+translate english branch1_day1_start_f84672f2_6:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:193
+translate english branch1_day1_start_f84672f2_7:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:196
+translate english branch1_day1_start_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:199
+translate english branch1_day1_start_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:202
+translate english branch1_day1_start_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:205
+translate english branch1_day1_start_f84672f2_8:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:208
+translate english branch1_day1_start_f84672f2_9:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:211
+translate english branch1_day1_start_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:214
+translate english branch1_day1_start_f84672f2_10:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:217
+translate english branch1_day1_start_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:220
+translate english branch1_day1_start_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:223
+translate english branch1_day1_start_f84672f2_11:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:226
+translate english branch1_day1_start_f84672f2_12:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:229
+translate english branch1_day1_start_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:234
+translate english branch1_day1_start_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:237
+translate english branch1_day1_start_03000806_8:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:256
+translate english branch1_day1_start_fail_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:259
+translate english branch1_day1_start_fail_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:262
+translate english branch1_day1_start_fail_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:281
+translate english branch1_day1_start2_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:284
+translate english branch1_day1_start2_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:287
+translate english branch1_day1_start2_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:290
+translate english branch1_day1_start2_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:293
+translate english branch1_day1_start2_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:296
+translate english branch1_day1_start2_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:309
+translate english branch1_day1_start2_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:312
+translate english branch1_day1_start2_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:315
+translate english branch1_day1_start2_b1a7c187:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:318
+translate english branch1_day1_start2_b1a7c187_1:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:321
+translate english branch1_day1_start2_f84672f2_5:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:324
+translate english branch1_day1_start2_f84672f2_6:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:327
+translate english branch1_day1_start2_f84672f2_7:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:330
+translate english branch1_day1_start2_f84672f2_8:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:333
+translate english branch1_day1_start2_b1a7c187_2:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:336
+translate english branch1_day1_start2_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:339
+translate english branch1_day1_start2_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:342
+translate english branch1_day1_start2_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:345
+translate english branch1_day1_start2_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:348
+translate english branch1_day1_start2_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:351
+translate english branch1_day1_start2_03000806_8:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:354
+translate english branch1_day1_start2_b1a7c187_3:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:357
+translate english branch1_day1_start2_03000806_9:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:360
+translate english branch1_day1_start2_f84672f2_9:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:391
+translate english branch1_day1_step1_taxi_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:394
+translate english branch1_day1_step1_taxi_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:397
+translate english branch1_day1_step1_taxi_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:400
+translate english branch1_day1_step1_taxi_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:403
+translate english branch1_day1_step1_taxi_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:406
+translate english branch1_day1_step1_taxi_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:409
+translate english branch1_day1_step1_taxi_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:418
+translate english branch1_day1_step1_offroad_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:421
+translate english branch1_day1_step1_offroad_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:424
+translate english branch1_day1_step1_offroad_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:427
+translate english branch1_day1_step1_offroad_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:430
+translate english branch1_day1_step1_offroad_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:433
+translate english branch1_day1_step1_offroad_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:436
+translate english branch1_day1_step1_offroad_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:439
+translate english branch1_day1_step1_offroad_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:442
+translate english branch1_day1_step1_offroad_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:450
+translate english branch1_day1_step1_come_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:453
+translate english branch1_day1_step1_come_03000806:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:456
+translate english branch1_day1_step1_come_03000806_1:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:459
+translate english branch1_day1_step1_come_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:462
+translate english branch1_day1_step1_come_03000806_2:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:465
+translate english branch1_day1_step1_come_03000806_3:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:468
+translate english branch1_day1_step1_come_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:471
+translate english branch1_day1_step1_come_f84672f2_3:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:474
+translate english branch1_day1_step1_come_03000806_4:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:477
+translate english branch1_day1_step1_come_b1a7c187:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:480
+translate english branch1_day1_step1_come_b1a7c187_1:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:483
+translate english branch1_day1_step1_come_03000806_5:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:486
+translate english branch1_day1_step1_come_03000806_6:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:489
+translate english branch1_day1_step1_come_03000806_7:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:492
+translate english branch1_day1_step1_come_03000806_8:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:495
+translate english branch1_day1_step1_come_f84672f2_4:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:498
+translate english branch1_day1_step1_come_03000806_9:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:501
+translate english branch1_day1_step1_come_03000806_10:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:504
+translate english branch1_day1_step1_come_03000806_11:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:507
+translate english branch1_day1_step1_come_03000806_12:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:510
+translate english branch1_day1_step1_come_f84672f2_5:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:513
+translate english branch1_day1_step1_come_f84672f2_6:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:516
+translate english branch1_day1_step1_come_03000806_13:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:519
+translate english branch1_day1_step1_come_03000806_14:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:522
+translate english branch1_day1_step1_come_b1a7c187_2:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:525
+translate english branch1_day1_step1_come_b1a7c187_3:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:528
+translate english branch1_day1_step1_come_b1a7c187_4:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:531
+translate english branch1_day1_step1_come_03000806_15:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:534
+translate english branch1_day1_step1_come_f84672f2_7:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:537
+translate english branch1_day1_step1_come_f84672f2_8:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:540
+translate english branch1_day1_step1_come_f84672f2_9:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:543
+translate english branch1_day1_step1_come_03000806_16:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:546
+translate english branch1_day1_step1_come_03000806_17:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:549
+translate english branch1_day1_step1_come_03000806_18:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:552
+translate english branch1_day1_step1_come_03000806_19:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:555
+translate english branch1_day1_step1_come_03000806_20:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:558
+translate english branch1_day1_step1_come_03000806_21:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:561
+translate english branch1_day1_step1_come_f84672f2_10:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:564
+translate english branch1_day1_step1_come_03000806_22:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:567
+translate english branch1_day1_step1_come_03000806_23:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:570
+translate english branch1_day1_step1_come_b1a7c187_5:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:573
+translate english branch1_day1_step1_come_f84672f2_11:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:576
+translate english branch1_day1_step1_come_03000806_24:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:579
+translate english branch1_day1_step1_come_03000806_25:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:582
+translate english branch1_day1_step1_come_03000806_26:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:585
+translate english branch1_day1_step1_come_03000806_27:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:588
+translate english branch1_day1_step1_come_03000806_28:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:591
+translate english branch1_day1_step1_come_f84672f2_12:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:594
+translate english branch1_day1_step1_come_f84672f2_13:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:597
+translate english branch1_day1_step1_come_b1a7c187_6:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:600
+translate english branch1_day1_step1_come_b1a7c187_7:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:603
+translate english branch1_day1_step1_come_f84672f2_14:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:606
+translate english branch1_day1_step1_come_f84672f2_15:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:609
+translate english branch1_day1_step1_come_f84672f2_16:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:612
+translate english branch1_day1_step1_come_b1a7c187_8:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:615
+translate english branch1_day1_step1_come_03000806_29:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:618
+translate english branch1_day1_step1_come_03000806_30:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:621
+translate english branch1_day1_step1_come_03000806_31:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:624
+translate english branch1_day1_step1_come_03000806_32:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:627
+translate english branch1_day1_step1_come_f84672f2_17:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:630
+translate english branch1_day1_step1_come_03000806_33:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:633
+translate english branch1_day1_step1_come_f84672f2_18:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:636
+translate english branch1_day1_step1_come_f84672f2_19:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:639
+translate english branch1_day1_step1_come_f84672f2_20:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:642
+translate english branch1_day1_step1_come_03000806_34:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:645
+translate english branch1_day1_step1_come_03000806_35:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:648
+translate english branch1_day1_step1_come_03000806_36:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:651
+translate english branch1_day1_step1_come_03000806_37:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:654
+translate english branch1_day1_step1_come_f84672f2_21:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:657
+translate english branch1_day1_step1_come_03000806_38:
+
+    # coach "[lastPhoneMsg!t]" with dissolve
+    coach "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:660
+translate english branch1_day1_step1_come_b1a7c187_9:
+
+    # yarik "[lastPhoneMsg!t]" with dissolve
+    yarik "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day1.rpy:663
+translate english branch1_day1_step1_come_f84672f2_22:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
 

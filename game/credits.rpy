@@ -147,11 +147,18 @@ label credits:
         xpos 0.05
         linear 5.0 xpos 0.12
 
-    $ renpy.pause(2)
+    
+    show text Text(_("{color=#CC0000}Перевод на английский язык:{/color}\nСтудия SolidRock "), size=int(50)) as credits_text1_line91 at credits_text1_line91_pos zorder 10 with dissolve:
+        xpos 0.05
+        linear 5.0 xpos 0.12
+
+    $ renpy.pause(3)
 
     hide credits_sprite6 with dissolve
 
     hide credits_text1_line9 with dissolve
+
+    hide credits_text1_line91 with dissolve
 
     show credits_bkg7 with dissolve
 
@@ -254,6 +261,12 @@ label after_credits:
         hide credits_text1_line5
 
         hide credits_text1_line7
+
+        hide credits_text1_line8
+
+        hide credits_text1_line9
+
+        hide credits_text1_line91
 
         hide credits_text10_line1
 

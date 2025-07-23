@@ -50,3 +50,9 @@ translate english strings:
     old "Любые совпадения с реальными личностями и событиями случайны."
     new "Any resemblance to actual persons, living or dead, or actual events is purely coincidental."
 
+translate english strings:
+
+    # game/credits.rpy:151
+    old "{color=#CC0000}Перевод на английский язык:{/color}\nСтудия SolidRock "
+    new "{color=#CC0000}Translation into English:{/color}\nSolidRock Studio"
+

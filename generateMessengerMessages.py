@@ -50,7 +50,7 @@ def create_translation_dict(file_path):
 
 
 
-os.chdir("C:/Work/RenpyProjects/escape-to-moscow2/game")
+os.chdir("game")
 
 
 translationDict = create_translation_dict('tl/english/messenger_messages2.rpy')
@@ -74,28 +74,28 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayMeMatches:
         print(match)
         output += ("    var_character_messages['ru']['me'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['me'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['me'].append(\"" + translationDict[match] + "\")\n\n")
 
     phoneSayAliyaMatches = re.findall("\$ phoneSayAliya\(__\(\"(.+?)\".*\)\)", filetext)
 
     for match in phoneSayAliyaMatches:
         print(match)
         output += ("    var_character_messages['ru']['aliya'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['aliya'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['aliya'].append(\"" + translationDict[match] + "\")\n\n")
 
     phoneSayNoNameMatches = re.findall("\$ phoneSayNoName\(__\(\"(.+?)\".*\)\)", filetext)
 
     for match in phoneSayNoNameMatches:
         print(match)
         output += ("    var_character_messages['ru']['noName'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['noName'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['noName'].append(\"" + translationDict[match] + "\")\n\n")
 
     phoneSayNoNamePromoMatches = re.findall("\$ phoneSayNoNamePromo\(\"(.+)\"\)", filetext)
 
     for match in phoneSayNoNamePromoMatches:
         print(match)
         output += ("    var_character_messages['ru']['noName_promo'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['noName_promo'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['noName_promo'].append(\"" + translationDict[match] + "\")\n\n")
 
 
 
@@ -104,7 +104,7 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayNoNameForwardedRightMatches:
         print(match)
         output += ("    var_character_messages['ru']['noName_forwarded_right'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['noName_forwarded_right'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['noName_forwarded_right'].append(\"" + translationDict[match] + "\")\n\n")
 
 
     phoneSayAliyaForwardedRightMatches = re.findall("\$ phoneSayAliyaForwardedRight\(__\(\"(.+?)\".*\)\)", filetext)
@@ -112,7 +112,7 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayAliyaForwardedRightMatches:
         print(match)
         output += ("    var_character_messages['ru']['aliya_forwarded_right'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['aliya_forwarded_right'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['aliya_forwarded_right'].append(\"" + translationDict[match] + "\")\n\n")
 
 
 
@@ -121,7 +121,7 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayCoachMatches:
         print(match)
         output += ("    var_character_messages['ru']['coach'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['coach'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['coach'].append(\"" + translationDict[match] + "\")\n\n")
 
 
     phoneSayMePhotoMatches = re.findall("\$ phoneSayMePhoto\(\)", filetext)
@@ -129,7 +129,7 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayMePhotoMatches:
         print("????"+match)
         output += ("    var_character_messages['ru']['me_with_title_photo'].append(_(\"\"))\n\n")
-        output += ("    var_character_messages['en']['me_with_title_photo'].append(_(\"\"))\n\n")
+        output += ("    var_character_messages['en']['me_with_title_photo'].append(\"\")\n\n")
 
 
     phoneSayCoachWithTitleMatches = re.findall("\$ phoneSayCoachWithTitle\(__\(\"(.+)\".*\)\)", filetext)
@@ -137,7 +137,7 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayCoachWithTitleMatches:
         print(match)
         output += ("    var_character_messages['ru']['coach_with_title'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['coach_with_title'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['coach_with_title'].append(\"" + translationDict[match] + "\")\n\n")
 
 
 
@@ -146,14 +146,14 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayYarikWithTitleMatches:
         print(match)
         output += ("    var_character_messages['ru']['yarik_with_title'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['yarik_with_title'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['yarik_with_title'].append(\"" + translationDict[match] + "\")\n\n")
 
     phoneSayAliyaWithTitleMatches = re.findall("\$ phoneSayAliyaWithTitle\(__\(\"(.+)\"\)\)", filetext)
 
     for match in phoneSayAliyaWithTitleMatches:
         print(match)
         output += ("    var_character_messages['ru']['aliya_with_title'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['aliya_with_title'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['aliya_with_title'].append(\"" + translationDict[match] + "\")\n\n")
 
 
     phoneSayLawyerWithTitleMatches = re.findall("\$ phoneSayLawyerWithTitle\(__\(\"(.+)\"\)\)", filetext)
@@ -161,7 +161,7 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayLawyerWithTitleMatches:
         print(match)
         output += ("    var_character_messages['ru']['lawyer_with_title'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['lawyer_with_title'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['lawyer_with_title'].append(\"" + translationDict[match] + "\")\n\n")
 
 
     phoneSayRomaWithTitleMatches = re.findall("\$ phoneSayRomaWithTitle\(__\(\"(.+)\"\)\)", filetext)
@@ -169,26 +169,26 @@ for file in glob.glob("*.rpy"):
     for match in phoneSayRomaWithTitleMatches:
         print(match)
         output += ("    var_character_messages['ru']['roma_with_title'].append(_(\"" + match + "\"))\n\n")
-        output += ("    var_character_messages['en']['roma_with_title'].append(_(\"" + translationDict[match] + "\"))\n\n")
+        output += ("    var_character_messages['en']['roma_with_title'].append(\"" + translationDict[match] + "\")\n\n")
 
     phoneSayRomaPhotoMatches = re.findall("\$ phoneSayRomaPhoto\(\)", filetext)
 
     for match in phoneSayRomaPhotoMatches:
         print("!!!!!"+match)
         output += ("    var_character_messages['ru']['roma_with_title_photo'].append(_(\"\"))\n\n")
-        output += ("    var_character_messages['en']['roma_with_title_photo'].append(_(\"\"))\n\n")
+        output += ("    var_character_messages['en']['roma_with_title_photo'].append(\"\")\n\n")
 
     phoneSayRomaVoiceMatches = re.findall("\$ phoneSayRomaVoice\(\)", filetext)
 
     for match in phoneSayRomaVoiceMatches:
         print("!!!!!"+match)
         output += ("    var_character_messages['ru']['roma_with_title_voice'].append(_(\"\"))\n\n")
-        output += ("    var_character_messages['en']['roma_with_title_voice'].append(_(\"\"))\n\n")
+        output += ("    var_character_messages['en']['roma_with_title_voice'].append(\"\")\n\n")
 
 
 
 
-text_file = open("C:/Work/RenpyProjects/escape-to-moscow2/game/messenger_messages2.rpy", "w", encoding="utf8")
+text_file = open("messenger_messages2.rpy", "w", encoding="utf8")
 text_file.write(output)
 text_file.close()
 

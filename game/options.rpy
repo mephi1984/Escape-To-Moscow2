@@ -49,6 +49,8 @@ define gui.about = _p("""
 {color=#FFD800}Звуки и амбиент:{/color} Владислав Хорев, freesound.org
 
 {color=#FFD800}Моушн-дизайн:{/color} Влад HEHUDOJNIK
+
+{color=#FFD800}Перевод на английский язык:{/color} Студия SolidRock
 """)
 
 

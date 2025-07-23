@@ -2501,7 +2501,7 @@ label branch1_day5_mcdonalds_exterior3_lawyer:
 
     aliya "Спасибо..." with dissolve
 
-    milana "Спасибо большое Александр! Тогда будем на связи?" with dissolve
+    milana "Спасибо большое, Александр! Тогда будем на связи?" with dissolve
 
     show AliyaSitTableLeft hoodie_hands_down_worried4 with dissolve
 

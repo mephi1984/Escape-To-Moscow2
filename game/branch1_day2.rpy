@@ -522,7 +522,7 @@ label branch1_day2_taxi:
     coach "[lastPhoneMsg!t]" with dissolve
 
     $ phoneSayRomaWithTitle(__("Я заправил полный бак в свой джип. Завтра утром еду в аэропорт, забирать Семёна!"))
-    coach "[lastPhoneMsg!t]" with dissolve
+    roma "[lastPhoneMsg!t]" with dissolve
 
     $ phoneSayYarikWithTitle(__("Я связался с пилотом, он будет вас ждать в 12:30"))
     yarik "[lastPhoneMsg!t]" with dissolve

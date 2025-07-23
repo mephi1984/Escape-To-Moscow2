@@ -65,7 +65,9 @@ define credits_text1_line62_pos = Position(xpos=0.05, ypos=0.65, xanchor=0.0, ya
 define credits_text1_line7_pos = Position(xpos=0.35, ypos=0.4, xanchor=0.0, yanchor=0.5)
 define credits_text1_line8_pos = Position(xpos=0.35, ypos=0.7, xanchor=0.0, yanchor=0.5)
 
-define credits_text1_line9_pos = Position(xpos=0.05, ypos=0.45, xanchor=0.0, yanchor=0.5)
+define credits_text1_line9_pos = Position(xpos=0.05, ypos=0.35, xanchor=0.0, yanchor=0.5)
+define credits_text1_line91_pos = Position(xpos=0.05, ypos=0.75, xanchor=0.0, yanchor=0.5)
+
 
 
 define credits_text10_line1_pos = Position(xpos=0.5, ypos=0.1, xanchor=0.5, yanchor=0.5)

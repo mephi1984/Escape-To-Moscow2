@@ -1572,12 +1572,6 @@ translate english branch1_day4_yarik_car_interior3_e355c143:
     # "Девушка подошла к нам." with dissolve
     "The girl approached us." with dissolve
 
-# game/branch1_day4.rpy:883
-translate english branch1_day4_yarik_car_interior3_f7d1a3b1:
-
-    # coach "Привет Семён! Ну вот мы и познакомились вживую." with dissolve
-    coach "Hi, Semyon! Well, here we are meeting in person." with dissolve
-
 # game/branch1_day4.rpy:887
 translate english branch1_day4_yarik_car_interior3_417856c2:
 
@@ -1589,12 +1583,6 @@ translate english branch1_day4_yarik_car_interior3_d91a5005:
 
     # milana "Меня зовут Милана, приятно познакомиться." with dissolve
     milana "My name is Milana, nice to meet you." with dissolve
-
-# game/branch1_day4.rpy:895
-translate english branch1_day4_yarik_car_interior3_83111f9a:
-
-    # me "Я и понятия не имел что ты женщина." with dissolve
-    me "I had no idea you were a woman." with dissolve
 
 # game/branch1_day4.rpy:900
 translate english branch1_day4_yarik_car_interior3_fbd6abd5:
@@ -1661,12 +1649,6 @@ translate english branch1_day4_yarik_car_interior3_56fcd526:
 
     # aliya "Спасибо!" with dissolve
     aliya "Thank you!" with dissolve
-
-# game/branch1_day4.rpy:935
-translate english branch1_day4_yarik_car_interior3_e65a23c2:
-
-    # yarik "Простите что вмешиваюсь." with dissolve
-    yarik "Sorry to interrupt." with dissolve
 
 # game/branch1_day4.rpy:937
 translate english branch1_day4_yarik_car_interior3_5de04154:
@@ -2448,12 +2430,6 @@ translate english conspiracy_kitchen_5c48a519:
     # "И Костя ушел из кухни." with dissolve
     "And Kostya left the kitchen." with dissolve
 
-# game/branch1_day4.rpy:1455
-translate english conspiracy_kitchen_b162d6a1:
-
-    # aliya "Я наверное обидела Костю." with dissolve
-    aliya "I probably offended Kostya." with dissolve
-
 # game/branch1_day4.rpy:1457
 translate english conspiracy_kitchen_5a1cdb65:
 
@@ -2610,12 +2586,6 @@ translate english conspiracy_kitchen_83908a39:
     # milana "Алия, пойдем, я покажу тебе комнату." with dissolve
     milana "Aliya, come on, I'll show you the room." with dissolve
 
-# game/branch1_day4.rpy:1535
-translate english conspiracy_kitchen_c55f32bb:
-
-    # "Алия встала из-за стала и ушла с Миланой." with dissolve
-    "Aliya got up from the table and left with Milan." with dissolve
-
 # game/branch1_day4.rpy:1537
 translate english conspiracy_kitchen_34c8a77c:
 
@@ -2639,12 +2609,6 @@ translate english conspiracy_room_boys_49ecf00e:
 
     # "Конечно, спальный мешок - не самое удобное место для сна." with dissolve
     "Of course, a sleeping bag is not the most comfortable place to sleep." with dissolve
-
-# game/branch1_day4.rpy:1553
-translate english conspiracy_room_boys_f8499841:
-
-    # "Но мне нравилось находится в этой квартире." with dissolve
-    "But I liked being in this apartment." with dissolve
 
 # game/branch1_day4.rpy:1555
 translate english conspiracy_room_boys_d4550e32:
@@ -2711,4 +2675,98 @@ translate english conspiracy_room_boys_7a4b0c51:
 
     # "С этими мыслями я уснул..." with dissolve
     "With these thoughts, I fell asleep..." with dissolve
+
+# TODO: Translation updated at 2025-07-23 12:46
+
+# game/branch1_day4.rpy:386
+translate english branch1_day4_yarik_car_interior1_da8617e8:
+
+    # aliya "[lastPhoneMsg!t]" with dissolve
+    aliya "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:389
+translate english branch1_day4_yarik_car_interior1_f84672f2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:417
+translate english branch1_day4_yarik_car_interior1_f84672f2_1:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:421
+translate english branch1_day4_yarik_car_interior1_f84672f2_2:
+
+    # me "[lastPhoneMsg!t]" with dissolve
+    me "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:425
+translate english branch1_day4_yarik_car_interior1_da8617e8_1:
+
+    # aliya "[lastPhoneMsg!t]" with dissolve
+    aliya "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:428
+translate english branch1_day4_yarik_car_interior1_8a2b3eee:
+
+    # roma "[lastPhoneMsg!t]" with dissolve
+    roma "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:431
+translate english branch1_day4_yarik_car_interior1_8a2b3eee_1:
+
+    # roma "[lastPhoneMsg!t]" with dissolve
+    roma "[lastPhoneMsg!t]" with dissolve
+
+# game/branch1_day4.rpy:435
+translate english branch1_day4_yarik_car_interior1_da8617e8_2:
+
+    # aliya "[lastPhoneMsg!t]" with dissolve
+    aliya "[lastPhoneMsg!t]" with dissolve
+
+# TODO: Translation updated at 2025-07-23 12:53
+
+# game/branch1_day4.rpy:730
+translate english branch1_day4_yarik_car_interior2_13b2be5f:
+
+    # aliya "Так я по фотке хинкала узнаю национальность дагестанца, который ведет эту страничку." with dissolve
+    aliya "So by the photo of khinkali, I can guess the nationality of the Dagestani who runs this page." with dissolve
+
+# game/branch1_day4.rpy:883
+translate english branch1_day4_yarik_car_interior3_d46865e8:
+
+    # coach "Привет, Семён! Ну вот мы и познакомились вживую." with dissolve
+    coach "Hi, Semyon! Well, here we are meeting in person." with dissolve
+
+# game/branch1_day4.rpy:895
+translate english branch1_day4_yarik_car_interior3_8b05f96c:
+
+    # me "Я и понятия не имел, что ты женщина." with dissolve
+    me "I had no idea you were a woman." with dissolve
+
+# game/branch1_day4.rpy:935
+translate english branch1_day4_yarik_car_interior3_d4054d26:
+
+    # yarik "Простите, что вмешиваюсь." with dissolve
+    yarik "Sorry to interrupt." with dissolve
+
+# game/branch1_day4.rpy:1455
+translate english conspiracy_kitchen_7e7c3f81:
+
+    # aliya "Я, наверное, обидела Костю." with dissolve
+    aliya "I probably offended Kostya." with dissolve
+
+# game/branch1_day4.rpy:1535
+translate english conspiracy_kitchen_8fad97a0:
+
+    # "Алия встала из-за стола и ушла с Миланой." with dissolve
+    "Aliya got up from the table and left with Milan." with dissolve
+
+# game/branch1_day4.rpy:1553
+translate english conspiracy_room_boys_dc42d1fc:
+
+    # "Но мне нравилось находиться в этой квартире." with dissolve
+    "But I liked being in this apartment." with dissolve
 
