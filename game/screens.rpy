@@ -336,7 +336,7 @@ screen navigation():
 
         textbutton _("Настройки") action ShowMenu("preferences")
 
-        textbutton _("Язык") action ShowMenu("language_menu")
+        textbutton _("Язык / Language") action ShowMenu("language_menu")
 
         if _in_replay:
 
@@ -1239,15 +1239,17 @@ screen language_menu():
 
     tag menu
 
-    use game_menu(_("Язык"), scroll="viewport"):
+    use game_menu(_("Язык / Language"), scroll="viewport"):
 
         vbox:
             xalign 0.5
             yalign 0.5
             style_prefix "radio"
-            label _("Язык")
+            label _("Язык / Language")
             textbutton _("Русский") action Language(None)
             textbutton _("English") action Language("english")
+
+            label _("Язык в внутрииговом чате поменяется только при перезапуске игры.")
 
             null height (4 * gui.pref_spacing)
 
@@ -1641,7 +1643,7 @@ screen quick_menu():
             style_prefix "quick"
 
             xalign 0.5
-            yalign 1.0
+            yalign 0.98
 
             textbutton _("Назад") action Rollback()
             textbutton _("Пропуск") action Skip() alternate Skip(fast=True, confirm=True)

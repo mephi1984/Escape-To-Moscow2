@@ -176,7 +176,7 @@ label credits:
 
 
 
-    if _preferences.language == None:
+    if _preferences.language != 'english':
 
         hide credits_text10_line1 with dissolve
 
@@ -300,7 +300,7 @@ label after_credits:
     else:
 
 
-        if _preferences.language == None:
+        if _preferences.language != 'english':
 
             stop music_crossfade fadeout 5.0
 

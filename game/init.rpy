@@ -71,9 +71,9 @@ label splashscreen:
     with Pause(1)
 
 
-    if not persistent.lang_chosen:
-            $ persistent.lang_chosen = True
-            call screen language_and_difficulty_menu_first_time
+    #if not persistent.lang_chosen:
+    #        $ persistent.lang_chosen = True
+    #        call screen language_and_difficulty_menu_first_time
 
     return
 

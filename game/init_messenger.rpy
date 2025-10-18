@@ -78,7 +78,7 @@ transform phoneTransitionBottomMoveUpRight(new_ypos, h):
 
 init python:
 
-    global lang
+    #global lang
     global var_message_bubbles
 
 
@@ -122,7 +122,13 @@ init python:
 
     # side: 0 is left, 1 is right
 
-    for lg in ['ru', 'en']:
+    # Quick hack:
+    order = ['en', 'en']
+
+    if _preferences.language != 'english':
+        order = ['ru', 'ru']
+
+    for lg in order:
 
         for i in range(len(var_character_messages[lg]['aliya'])):
             t = Text(var_character_messages[lg]['aliya'][i], size=16, color="#000000", layout="subtitle")
@@ -274,14 +280,14 @@ init python:
 
         var_current_dialog_stack = var_dialog_stack[var_current_dialog]
 
-        lg = 'en'
+        lxg = 'ru'
 
-        if _preferences.language == None:
-            lg = 'ru'
+        if _preferences.language == 'english':
+            lxg = 'en'
 
         msgIndex = -1
         try:
-            msgIndex = var_character_messages[lg][chr].index(msg)
+            msgIndex = var_character_messages[lxg][chr].index(msg)
 
             h = 0
 
@@ -292,7 +298,7 @@ init python:
             elif chr == 'roma_with_title_voice':
                 h = 66
             else: 
-                h = renpy.render(var_message_bubbles[lg][chr][msgIndex], 1920, 1080, 0, 0).get_size()[1]
+                h = renpy.render(var_message_bubbles[lxg][chr][msgIndex], 1920, 1080, 0, 0).get_size()[1]
 
             totalHeight = 0
 

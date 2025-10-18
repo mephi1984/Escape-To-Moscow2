@@ -461,3 +461,11 @@ translate english strings:
     old "Продолжить"
     new "Continue"
 
+# TODO: Translation updated at 2025-10-18 21:33
+
+translate english strings:
+
+    # game/screens.rpy:1252
+    old "Язык в внутрииговом чате поменяется только при перезапуске игры."
+    new "The language in the in-game chat will only change when you restart the game."
+
