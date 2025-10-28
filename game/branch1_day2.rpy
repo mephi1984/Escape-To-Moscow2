@@ -548,7 +548,7 @@ label branch1_day2_taxi:
     $ phoneSayCoachWithTitle(__("Семён, тебе пора выключать телефон."))
     coach "[lastPhoneMsg!t]" with dissolve
 
-    $ phoneSayCoachWithTitle(__("Выключай режим радиомолчания!"))
+    $ phoneSayCoachWithTitle(__("Включай режим радиомолчания!"))
     coach "[lastPhoneMsg!t]" with dissolve
 
     $ phoneSayMe(__("Хорошо. Всем пока!"))

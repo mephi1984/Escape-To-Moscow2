@@ -1455,3 +1455,15 @@ translate english strings:
     new "I'm in!"
 # TODO: Translation updated at 2025-07-23 13:58
 
+# TODO: Translation updated at 2025-10-28 19:55
+
+translate english strings:
+
+    # game/messenger_messages2.rpy:536
+    old "Тогда менты не смогут отследить твое местоположение по сигналу сотовой связи"
+    new ""
+
+    # game/messenger_messages2.rpy:984
+    old "Включай режим радиомолчания!"
+    new ""
+

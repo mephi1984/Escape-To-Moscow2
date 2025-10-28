@@ -52,7 +52,7 @@ label branch1_day3_airplane:
 
     "А может быть, меня заметят и задержат." with dissolve
 
-    "Ведь ее родители уже знаю как я выгляжу, и они могут устроить мне проблемы." with dissolve
+    "Ведь ее родители уже знают как я выгляжу, и они могут устроить мне проблемы." with dissolve
     
     "Но я все равно уверен в себе." with dissolve
 
@@ -615,9 +615,36 @@ label branch1_day3_khunzakh1:
 
     scene khunzakh1
 
-    show movie_plane_landing
+    if isWeb:
+        show movie_plane_slide1 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide2 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide3 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide4 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide5 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide6 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide7 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide8 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide9 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide10 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide11 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane_slide12 as movie_plane_slide with dissolve
+        pause 3.0
+    else:
 
-    pause 41.0
+        show movie_plane_landing
+
+        pause 41.0
 
     jump branch1_day3_khunzakh2
 
@@ -762,8 +789,35 @@ label branch1_day3_piper_cherokee0:
     pilot "{i}От винта!{/i}" with dissolve
 
     scene black
-    show movie_plane
-    pause 20.0
+
+    if isWeb:
+        show movie_plane2_slide1 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide2 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide3 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide4 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide5 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide6 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide7 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide8 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide9 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide10 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide11 as movie_plane_slide with dissolve
+        pause 3.0
+        show movie_plane2_slide12 as movie_plane_slide with dissolve
+        pause 3.0
+    else:
+        show movie_plane
+        pause 20.0
 
     jump branch1_day3_piper_cherokee1
 

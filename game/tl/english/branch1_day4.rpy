@@ -2770,3 +2770,59 @@ translate english conspiracy_room_boys_dc42d1fc:
     # "Но мне нравилось находиться в этой квартире." with dissolve
     "But I liked being in this apartment." with dissolve
 
+# TODO: Translation updated at 2025-10-28 19:55
+
+# game/branch1_day4.rpy:451
+translate english branch1_day4_yarik_car_interior1_bfacd273:
+
+    # yarik "Видишь ли, если полиция узнает твой настоящий номер телефона в мессенджере, то они могут вычислить твою геолокацию." with dissolve
+    yarik "You see, if the police find out your real phone number in the messenger, they will be able to figure out your geolocation." with dissolve
+
+# game/branch1_day4.rpy:1058
+translate english branch1_day4_mcd_exterior2_9dde5694:
+
+    # milana "А потом мы с тобой поедем в МФЦ." with dissolve
+    milana "And then you and I will go to the MFC." with dissolve
+
+# game/branch1_day4.rpy:1064
+translate english branch1_day4_mcd_exterior2_0a81198d:
+
+    # aliya "Зачем в МФЦ?" with dissolve
+    aliya "Why to MFC?" with dissolve
+
+# game/branch1_day4.rpy:1070
+translate english branch1_day4_mcd_exterior2_1cd768ac:
+
+    # milana "Тебе нужно будет получить новый паспорт. Для этого нужно будет прийти в любое отделение МФЦ и написать заявление." with dissolve
+    milana "You'll need to get a new passport. To do this, visit any MFC office and submit an application." with dissolve
+
+# game/branch1_day4.rpy:1082
+translate english branch1_day4_mcd_exterior2_65104677:
+
+    # milana "Ну вот представь, придешь ты в районный МФЦ в Москве." with dissolve
+    milana "Well, imagine you come to the district MFC in Moscow." with dissolve
+
+# game/branch1_day4.rpy:1084
+translate english branch1_day4_mcd_exterior2_42c6baa0:
+
+    # milana "Тебя встретят московские госслужащие, которым абсолютно насрать на твоего папашу." with dissolve
+    milana "You will be met by Moscow government officials who don't give a damn about your dad." with dissolve
+
+# game/branch1_day4.rpy:1088
+translate english branch1_day4_mcd_exterior2_85618329:
+
+    # milana "Конечно, через какое-то время менты в Дагестане узнают что ты получаешь новый паспорт." with dissolve
+    milana "Of course, after some time the cops in Dagestan will find out that you are getting a new passport." with dissolve
+
+# game/branch1_day4.rpy:1096
+translate english branch1_day4_mcd_exterior2_cd6aedbf:
+
+    # aliya "Я же в МФЦ буду оставлять свой адрес, свой телефон?" with dissolve
+    aliya "I'll have to leave my address and phone number at the MFC, right?" with dissolve
+
+# game/branch1_day4.rpy:1401
+translate english conspiracy_kitchen_a3e80d2a:
+
+    # costya "В этом доме путешественник может бесплатно остановится на любой срок, разделяя дом с другими путешественниками." with dissolve
+    costya "In this house, travelers can stay for free for any duration, sharing the house with other travelers." with dissolve
+

@@ -2739,3 +2739,11 @@ translate english branch1_day3_piper_cherokee1_c3f749dc:
     pilot "{i}We are currently flying at an altitude of five thousand meters, at a speed of one hundred eighty kilometers per hour.{/i}" with dissolve
 
 
+# TODO: Translation updated at 2025-10-28 19:55
+
+# game/branch1_day3.rpy:55
+translate english branch1_day3_airplane_b10f5aff:
+
+    # "Ведь ее родители уже знают как я выгляжу, и они могут устроить мне проблемы." with dissolve
+    "After all, her parents already know what I look like, and they could cause me trouble." with dissolve
+

@@ -620,7 +620,7 @@ label branch1_day1_step1_come:
     $ phoneSayCoachWithTitle(__("И вытащить сим-карту"))
     coach "[lastPhoneMsg!t]" with dissolve
 
-    $ phoneSayCoachWithTitle(__("Тогда менты не смогут отследить твое местоположение по триангуляции"))
+    $ phoneSayCoachWithTitle(__("Тогда менты не смогут отследить твое местоположение по сигналу сотовой связи"))
     coach "[lastPhoneMsg!t]" with dissolve
 
     $ phoneSayMe(__("Хорошо, я сделаю это когда буду ехать в аэропорт!"))

@@ -125,8 +125,8 @@ init python:
     # Quick hack:
     order = ['en', 'en']
 
-    if _preferences.language != 'english':
-        order = ['ru', 'ru']
+    #if _preferences.language != 'english':
+    #    order = ['ru', 'ru']
 
     for lg in order:
 
@@ -274,6 +274,156 @@ init python:
             )
             var_message_bubbles[lg]['roma_with_title_voice'].append(phonebubble)
             renpy.image("roma_with_title_voice_bubble" + str(i), phonebubble)
+
+    order = ['ru', 'ru']
+    
+    for lg in order:
+
+        for i in range(len(var_character_messages[lg]['aliya'])):
+            t = Text(var_character_messages[lg]['aliya'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['aliya'].append(phonebubble)
+            renpy.image("aliya_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['noName'])):
+            t = Text(var_character_messages[lg]['noName'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['noName'].append(phonebubble)
+            renpy.image("noName_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['coach'])):
+            t = Text(var_character_messages[lg]['coach'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['coach'].append(phonebubble)
+            renpy.image("coach_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['me'])):
+            t = Text(var_character_messages[lg]['me'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_right.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['me'].append(phonebubble)
+            renpy.image("me_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['me_with_title_photo'])):
+            phonebubble = Composite(
+                (200, 227),  # Размер изображения
+                (0, 0), "messenger/me_photo.png",  # Фоновое изображение
+            )
+            var_message_bubbles[lg]['me_with_title_photo'].append(phonebubble)
+            renpy.image("me_with_title_photo_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['noName_forwarded_right'])):
+            title = "{color=#45A32D}Пересланное сообщение от: No Name:{/color}\n"
+            if lg == 'en':
+                title = "{color=#45A32D}Forwarded message from: No Name:{/color}\n"
+
+            t = Text(title + var_character_messages[lg]['noName_forwarded_right'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_right.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['noName_forwarded_right'].append(phonebubble)
+            renpy.image("noName_forwarded_right_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['aliya_forwarded_right'])):
+            title = "{color=#856F5D}Пересланное сообщение от: А.Г.:{/color}\n"
+            if lg == 'en':
+                title = "{color=#856F5D}Forwarded message from: A.G.:{/color}\n"
+
+            t = Text(title + var_character_messages[lg]['aliya_forwarded_right'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_right.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['aliya_forwarded_right'].append(phonebubble)
+            renpy.image("aliya_forwarded_right_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['coach_with_title'])):
+            title = "{color=#007F46}Напарник:{/color}\n"
+            if lg == 'en':
+                title = "{color=#007F46}Mate:{/color}\n"
+
+            t = Text(title + var_character_messages[lg]['coach_with_title'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['coach_with_title'].append(phonebubble)
+            renpy.image("coach_with_title_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['yarik_with_title'])):
+            title = "{color=#687DC9}Ярик:{/color}\n"
+            if lg == 'en':
+                title = "{color=#687DC9}Yarik:{/color}\n"
+
+            t = Text(title + var_character_messages[lg]['yarik_with_title'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['yarik_with_title'].append(phonebubble)
+            renpy.image("yarik_with_title_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['aliya_with_title'])):
+            title = "{color=#856F5D}А.Г.:{/color}\n"
+            if lg == 'en':
+                title = "{color=#856F5D}A.G.:{/color}\n"
+                
+            t = Text(title + var_character_messages[lg]['aliya_with_title'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['aliya_with_title'].append(phonebubble)
+            renpy.image("aliya_with_title_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['lawyer_with_title'])):
+            t = Text("{color=#0094FF}Alex Law:{/color}\n" + var_character_messages[lg]['lawyer_with_title'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['lawyer_with_title'].append(phonebubble)
+            renpy.image("lawyer_with_title_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['noName_promo'])):
+            t = Text(var_character_messages[lg]['noName_promo'][i], size=28, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['noName_promo'].append(phonebubble)
+            renpy.image("noName_promo_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['roma_with_title'])):
+            title = "{color=#C03D33}Рома:{/color}\n"
+            if lg == 'en':
+                title = "{color=#C03D33}Roma:{/color}\n"
+            t = Text(title + var_character_messages[lg]['roma_with_title'][i], size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Fixed(g, Frame("msg_left.png", msg_frame_size, msg_frame_size), g, xmaximum=msg_xmaximum, fit_first=True, xfit=True, yfit=True)
+            var_message_bubbles[lg]['roma_with_title'].append(phonebubble)
+            renpy.image("roma_with_title_bubble" + str(i), phonebubble)
+
+        for i in range(len(var_character_messages[lg]['roma_with_title_photo'])):
+            title = "{color=#C03D33}Рома:{/color}\n"
+            if lg == 'en':
+                title = "{color=#C03D33}Roma:{/color}\n"
+            
+            t = Text(title, size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Composite(
+                (200, 227),  # Размер изображения
+                (0, 0), "messenger/roma_photo.png",  # Фоновое изображение
+                (msg_margin, msg_margin), t
+            )
+            var_message_bubbles[lg]['roma_with_title_photo'].append(phonebubble)
+            renpy.image("roma_with_title_photo_bubble" + str(i), phonebubble)
+        
+        for i in range(len(var_character_messages[lg]['roma_with_title_voice'])):
+            title = "{color=#C03D33}Рома:{/color}\n"
+            if lg == 'en':
+                title = "{color=#C03D33}Roma:{/color}\n"
+            
+            t = Text(title, size=16, color="#000000", layout="subtitle")
+            g = Grid(1, 1, t, xmargin=msg_margin, ymargin=msg_margin)
+            phonebubble = Composite(
+                (200, 66),  # Размер изображения
+                (0, 0), "messenger/voice_message.png",  # Фоновое изображение
+                (msg_margin, msg_margin), t
+            )
+            var_message_bubbles[lg]['roma_with_title_voice'].append(phonebubble)
+            renpy.image("roma_with_title_voice_bubble" + str(i), phonebubble)
+
 
 
     def addMessage(chr, msg):

@@ -448,7 +448,7 @@ label branch1_day4_yarik_car_interior1:
 
     yarik "А да, это твой виртуальный мобильный номер." with dissolve
 
-    yarik "Видишь ли, если полиция узнает твой номер настоящий телефона в мессенджере, то они могут вычислить твою геолокацию." with dissolve
+    yarik "Видишь ли, если полиция узнает твой настоящий номер телефона в мессенджере, то они могут вычислить твою геолокацию." with dissolve
 
     yarik "Чтобы этого избежать, мы заказали виртуальный номер, и зарегистрировали тебя в соцсетях на него." with dissolve
 
@@ -1055,27 +1055,19 @@ label branch1_day4_mcd_exterior2:
 
     milana "Здесь в Реутове, есть конспиративная квартира, где мы останемся на ночь." with dissolve
 
-    milana "А потом мы с тобой поедем в отдел полиции." with dissolve
+    milana "А потом мы с тобой поедем в МФЦ." with dissolve
 
     show milana_table table1 as Milana with dissolve
 
     show AliyaSitTableLeft hoodie_hands_down_worried2 zorder 1 with dissolve
 
-    aliya "Зачем в отдел полиции?" with dissolve
+    aliya "Зачем в МФЦ?" with dissolve
 
     show AliyaSitTableLeft hoodie_hands_down_worried1 zorder 1 with dissolve
 
     show milana_table table2 as Milana with dissolve
 
-    milana "Я думаю ты уже знаешь, что твой отец начал тебя искать." with dissolve
-
-    milana "Пока вы ехали в Москву, Рома отправил в наш чат голосовое сообщение." with dissolve
-
-    milana "Рома сказал что к нему пришли полицейские." with dissolve
-
-    milana "Это означает, что по заявлению твоего отца, полиция объявила тебя в розыск." with dissolve
-
-    milana "Тебе нужно будет сняться с розыска. Для этого нужно будет прийти в любое отделение полиции и написать заявление." with dissolve
+    milana "Тебе нужно будет получить новый паспорт. Для этого нужно будет прийти в любое отделение МФЦ и написать заявление." with dissolve
 
     show milana_table table1 as Milana with dissolve
 
@@ -1087,13 +1079,13 @@ label branch1_day4_mcd_exterior2:
 
     show milana_table table2 as Milana with dissolve
 
-    milana "Ну вот представь, придешь ты в отдел МВД города Москвы." with dissolve
+    milana "Ну вот представь, придешь ты в районный МФЦ в Москве." with dissolve
 
-    milana "Тебя встретят московские менты, которым абсолютно насрать на твоего папашу." with dissolve
+    milana "Тебя встретят московские госслужащие, которым абсолютно насрать на твоего папашу." with dissolve
 
     milana "Напишешь заявление и уйдешь." with dissolve
 
-    milana "Конечно, когда это заявление дойдет до Дагестана, то твой отец узнает об этом." with dissolve
+    milana "Конечно, через какое-то время менты в Дагестане узнают что ты получаешь новый паспорт." with dissolve
 
     milana "Но все что он узнает - это то, что ты была там, написала заявление и ушла." with dissolve
 
@@ -1101,7 +1093,7 @@ label branch1_day4_mcd_exterior2:
     
     show AliyaSitTableLeft hoodie_hands_down_worried2 zorder 1 with dissolve
 
-    aliya "Я же в полиции буду оставлять свой адрес, свой телефон?" with dissolve
+    aliya "Я же в МФЦ буду оставлять свой адрес, свой телефон?" with dissolve
 
     show AliyaSitTableLeft hoodie_hands_down_worried1 zorder 1 with dissolve
 
@@ -1406,7 +1398,7 @@ label conspiracy_kitchen:
 
     costya "Кто хочет сделать добро для Вселенной - открывает Дом Для Всех, скажем, на один сезон." with dissolve
 
-    costya "В этом доме путешественник можете бесплатно остановится на любой срок, разделяя дом с другими путешественниками." with dissolve
+    costya "В этом доме путешественник может бесплатно остановится на любой срок, разделяя дом с другими путешественниками." with dissolve
 
     costya "Вот там вас точно никакие дагестанцы не достанут!" with dissolve
 

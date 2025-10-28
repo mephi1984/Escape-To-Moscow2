@@ -51,11 +51,38 @@ define cg_screen_phone_pos = Position(xalign=1.0, yalign=0.5)
 default branch1_day1_step1_taxi_asked = False
 default branch1_day1_step1_offroad_asked = False
 
-define isMobileWeb = True
+define isMobileWeb = False
+define isWeb = True
 
 image movie_plane = Movie(stop_music=False, loop = False, play = "video/output_vp9_2.webm")
 
 image movie_plane_landing = Movie(stop_music=False, loop = False, play = "video/output_vp9.webm")
+
+image movie_plane_slide1 = im.FactorScale("videoslideshow/video1_slide1.jpg", 1.0)
+image movie_plane_slide2 = im.FactorScale("videoslideshow/video1_slide2.jpg", 1.0)
+image movie_plane_slide3 = im.FactorScale("videoslideshow/video1_slide3.jpg", 1.0)
+image movie_plane_slide4 = im.FactorScale("videoslideshow/video1_slide4.jpg", 1.0)
+image movie_plane_slide5 = im.FactorScale("videoslideshow/video1_slide5.jpg", 1.0)
+image movie_plane_slide6 = im.FactorScale("videoslideshow/video1_slide6.jpg", 1.0)
+image movie_plane_slide7 = im.FactorScale("videoslideshow/video1_slide7.jpg", 1.0)
+image movie_plane_slide8 = im.FactorScale("videoslideshow/video1_slide8.jpg", 1.0)
+image movie_plane_slide9 = im.FactorScale("videoslideshow/video1_slide9.jpg", 1.0)
+image movie_plane_slide10 = im.FactorScale("videoslideshow/video1_slide10.jpg", 1.0)
+image movie_plane_slide11 = im.FactorScale("videoslideshow/video1_slide11.jpg", 1.0)
+image movie_plane_slide12 = im.FactorScale("videoslideshow/video1_slide12.jpg", 1.0)
+
+image movie_plane2_slide1 = im.FactorScale("videoslideshow/video2_slide1.jpg", 1.0)
+image movie_plane2_slide2 = im.FactorScale("videoslideshow/video2_slide2.jpg", 1.0)
+image movie_plane2_slide3 = im.FactorScale("videoslideshow/video2_slide3.jpg", 1.0)
+image movie_plane2_slide4 = im.FactorScale("videoslideshow/video2_slide4.jpg", 1.0)
+image movie_plane2_slide5 = im.FactorScale("videoslideshow/video2_slide5.jpg", 1.0)
+image movie_plane2_slide6 = im.FactorScale("videoslideshow/video2_slide6.jpg", 1.0)
+image movie_plane2_slide7 = im.FactorScale("videoslideshow/video2_slide7.jpg", 1.0)
+image movie_plane2_slide8 = im.FactorScale("videoslideshow/video2_slide8.jpg", 1.0)
+image movie_plane2_slide9 = im.FactorScale("videoslideshow/video2_slide9.jpg", 1.0)
+image movie_plane2_slide10 = im.FactorScale("videoslideshow/video2_slide10.jpg", 1.0)
+image movie_plane2_slide11 = im.FactorScale("videoslideshow/video2_slide11.jpg", 1.0)
+image movie_plane2_slide12 = im.FactorScale("videoslideshow/video2_slide12.jpg", 1.0)
 
 
 image splash = "splash.png"

@@ -3306,3 +3306,17 @@ translate english branch1_day6_metro_tretyakovskaya_cafe1_f84672f2_7:
     # me "[lastPhoneMsg!t]" with dissolve
     me "[lastPhoneMsg!t]" with dissolve
 
+# TODO: Translation updated at 2025-10-28 19:55
+
+# game/branch1_day6.rpy:962
+translate english branch1_day6_metro_tretyakovskaya_cafe1_02a0a921:
+
+    # me "Я увел дагестанцев за собой до метро, и там он отстал от меня." with dissolve
+    me "I led the Dagestanis away to the metro, and there he lost track of me." with dissolve
+
+# game/branch1_day6.rpy:980
+translate english branch1_day6_metro_tretyakovskaya_cafe1_1949c6a2:
+
+    # milana "Зная твой номер, менты вычислили твое примерное местоположение по симке." with dissolve
+    milana "Knowing your number, the cops figured out your approximate location through the SIM card." with dissolve
+

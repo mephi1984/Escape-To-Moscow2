@@ -533,7 +533,7 @@ init -1 python:
 
     var_character_messages['en']['coach_with_title'].append("And take out the SIM card")
 
-    var_character_messages['ru']['coach_with_title'].append(_("Тогда менты не смогут отследить твое местоположение по триангуляции"))
+    var_character_messages['ru']['coach_with_title'].append(_("Тогда менты не смогут отследить твое местоположение по сигналу сотовой связи"))
 
     var_character_messages['en']['coach_with_title'].append("Then the cops won't be able to track your location through triangulation")
 
@@ -981,7 +981,7 @@ init -1 python:
 
     var_character_messages['en']['coach_with_title'].append("Semyon, it's time to turn off your phone.")
 
-    var_character_messages['ru']['coach_with_title'].append(_("Выключай режим радиомолчания!"))
+    var_character_messages['ru']['coach_with_title'].append(_("Включай режим радиомолчания!"))
 
     var_character_messages['en']['coach_with_title'].append("Turn off the radio silence mode!")
 
