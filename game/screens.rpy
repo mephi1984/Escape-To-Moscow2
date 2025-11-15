@@ -253,9 +253,11 @@ style choice_vbox:
 
 style choice_button is default:
     properties gui.button_properties("choice_button")
+    size gui.text_size * 1.1  # Only for iOS/Mobile !!! isMobileWeb:
 
 style choice_button_text is default:
     properties gui.text_properties("choice_button")
+    size gui.text_size * 1.1  # Only for iOS/Mobile !!! isMobileWeb:
 
 
 ## Экран быстрого меню #########################################################
@@ -298,9 +300,11 @@ style quick_button_text is button_text
 
 style quick_button:
     properties gui.button_properties("quick_button")
+    size gui.text_size * 1.2 # Only for iOS/Mobile !!! isMobileWeb:
 
 style quick_button_text:
     properties gui.text_properties("quick_button")
+    size gui.text_size * 1.2 # Only for iOS/Mobile !!! isMobileWeb:
 
 
 ################################################################################
@@ -1643,7 +1647,7 @@ screen quick_menu():
             style_prefix "quick"
 
             xalign 0.5
-            yalign 0.98
+            yalign 0.96
 
             textbutton _("Назад") action Rollback()
             textbutton _("Пропуск") action Skip() alternate Skip(fast=True, confirm=True)

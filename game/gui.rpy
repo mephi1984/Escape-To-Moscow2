@@ -424,61 +424,61 @@ define gui.select_start_menu_background = "gui/select_start_menu.png"
 ################################################################################
 # set to True for mobile
 # set to False for PC and Web
-# if False:
+if True:
 
-#     define SCALE = 1
+    define SCALE = 1
 
-#     if isMobileWeb:
+    if isMobileWeb:
 
-#         ## Размеры шрифтов.
-#         define gui.text_size = int(45*SCALE)
-#         define gui.name_text_size = int(54*SCALE)
-#         define gui.notify_text_size = int(37.5*SCALE)
-#         define gui.interface_text_size = int(45*SCALE)
-#         define gui.button_text_size = int(45*SCALE)
-#         define gui.label_text_size = int(51*SCALE)
+        ## Размеры шрифтов.
+        define gui.text_size = int(45*SCALE)
+        define gui.name_text_size = int(54*SCALE)
+        define gui.notify_text_size = int(37.5*SCALE)
+        define gui.interface_text_size = int(45*SCALE)
+        define gui.button_text_size = int(45*SCALE)
+        define gui.label_text_size = int(51*SCALE)
 
-#         ## Регулирует местоположение текстового окна.
-#         define gui.textbox_height = int(360*SCALE)
-#         define gui.name_xpos = int(120*SCALE)
-#         define gui.text_xpos = int(135*SCALE)
-#         define gui.text_width = int(1650*SCALE)
+        ## Регулирует местоположение текстового окна.
+        define gui.textbox_height = int(360*SCALE)
+        define gui.name_xpos = int(120*SCALE)
+        define gui.text_xpos = int(135*SCALE)
+        define gui.text_width = int(1650*SCALE)
 
-#         ## Изменяет размеры и интервалы различных объектов.
-#         define gui.slider_size = int(54*SCALE)
+        ## Изменяет размеры и интервалы различных объектов.
+        define gui.slider_size = int(54*SCALE)
 
-#         define gui.choice_button_width = int(1860*SCALE)
+        define gui.choice_button_width = int(1860*SCALE)
 
-#         define gui.navigation_spacing = int(30*SCALE)
-#         define gui.pref_button_spacing = int(15*SCALE)
+        define gui.navigation_spacing = int(30*SCALE)
+        define gui.pref_button_spacing = int(15*SCALE)
 
-#         define gui.history_height = int(285*SCALE)
-#         define gui.history_text_width = int(1035*SCALE)
+        define gui.history_height = int(285*SCALE)
+        define gui.history_text_width = int(1035*SCALE)
 
-#         define gui.quick_button_text_size = int(30*SCALE)
+        define gui.quick_button_text_size = int(30*SCALE)
 
-#         define gui.dialogue_xpos = int(300*SCALE)
-#         define gui.dialogue_width = int(1300*SCALE)
+        define gui.dialogue_xpos = int(300*SCALE)
+        define gui.dialogue_width = int(1300*SCALE)
 
 
-#         ## Местоположение кнопок слотов.
-#         define gui.file_slot_cols = 2
-#         define gui.file_slot_rows = 2
+        ## Местоположение кнопок слотов.
+        define gui.file_slot_cols = 2
+        define gui.file_slot_rows = 2
 
-#         ## Режим NVL.
-#         define gui.nvl_height = int(255*SCALE)
+        ## Режим NVL.
+        define gui.nvl_height = int(255*SCALE)
 
-#         define gui.nvl_name_width = int(457.5*SCALE)
-#         define gui.nvl_name_xpos = int(487.5*SCALE)
+        define gui.nvl_name_width = int(457.5*SCALE)
+        define gui.nvl_name_xpos = int(487.5*SCALE)
 
-#         define gui.nvl_text_width = int(1372.5*SCALE)
-#         define gui.nvl_text_xpos = int(517.5*SCALE)
-#         define gui.nvl_text_ypos = int(7.5*SCALE)
+        define gui.nvl_text_width = int(1372.5*SCALE)
+        define gui.nvl_text_xpos = int(517.5*SCALE)
+        define gui.nvl_text_ypos = int(7.5*SCALE)
 
-#         define gui.nvl_thought_width = int(1860*SCALE)
-#         define gui.nvl_thought_xpos = int(30*SCALE)
+        define gui.nvl_thought_width = int(1860*SCALE)
+        define gui.nvl_thought_xpos = int(30*SCALE)
 
-#         define gui.nvl_button_width = int(1860*SCALE)
-#         define gui.nvl_button_xpos = int(30*SCALE)
+        define gui.nvl_button_width = int(1860*SCALE)
+        define gui.nvl_button_xpos = int(30*SCALE)
 
-#         define gui.quick_button_borders = Borders(int(60*SCALE), int(21*SCALE), int(60*SCALE), 0)
+        define gui.quick_button_borders = Borders(int(60*SCALE), int(21*SCALE), int(60*SCALE), 0)
